@@ -9,7 +9,7 @@ import javax.ws.rs.core.Application;
 
 @OpenAPIDefinition(
         info = @Info(
-                title="Project CRUD by Kawah Edukasi",
+                title="Project CRUD Upload to GIT by Kawah Edukasi",
                 version = "1.0.0",
                 contact = @Contact(
                         name = "Ananda Dana Pratama",
